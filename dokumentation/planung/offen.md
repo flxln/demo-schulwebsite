@@ -4,6 +4,6 @@
 
 | Issue | Titel | Status |
 |-------|-------|--------|
-| #1 | Kontaktformular: E-Mail-Validierung und Fehlermeldung | offen |
+| [#1](https://github.com/flxln/demo-schulwebsite/issues/1) | Kontaktformular: E-Mail-Validierung und Fehlermeldung | offen |
 
-GitHub: wird nach `gh issue create` mit URL ergänzt.
+Repo: [github.com/flxln/demo-schulwebsite](https://github.com/flxln/demo-schulwebsite)
