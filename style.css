@@ -75,6 +75,16 @@ button {
   align-self: flex-start;
 }
 
+.error-message {
+  margin-top: 0.75rem;
+  padding: 0.6rem 0.8rem;
+  background: #fdecea;
+  border: 1px solid #c0392b;
+  border-radius: 6px;
+  color: #c0392b;
+  font-size: 0.9rem;
+}
+
 .site-footer {
   text-align: center;
   color: var(--muted);
